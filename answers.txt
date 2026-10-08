@@ -1,0 +1,19 @@
+1.Llama is developed by Meta.  
+2.Gemini is developed by Google.  
+3.Claude is developed by Anthropic.
+7.Sora is mainly used for generating AI videos from text prompts.
+10.gitHub Copilot is mainly used for AI-assisted coding and code generation.
+ 
+11.LLM: Large Language Model.  
+12.Generative AI: AI that creates new content like text, images, or videos.  
+13.Prompt: An instruction or input given to AI.
+17.Tokens: Small pieces of text processed by an LLM.
+
+21.AI Agent: An AI system that can perform tasks and make decisions automatically.
+24.MCP: Model Context Protocol.
+25.PI Key: Used to authenticate and access an AI service.
+27.Cursor: An AI-powered code editor.
+
+43.LoRA: Commonly used for efficient fine-tuning of AI models.  
+44.MoE: Mixture of Experts.
+49.It may cause privacy, security, or data-leak risks if shared with public AI tools.
